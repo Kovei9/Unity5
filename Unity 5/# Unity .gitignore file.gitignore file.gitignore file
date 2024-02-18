@@ -1,0 +1,72 @@
+# Unity .gitignore file
+
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ibrary/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xport/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ================= #
+# Unity3D generated #
+# ================= #
+sysinfo.txt
+*.bak
+
+# ============ #
+# User-specific #
+# ============ #
+*.userprefs
+
+# ======= #
+# Bundles #
+# ======= #
+*.unity3d
+
+# ======= #
+# Autobak #
+# ======= #
+*_Autobak_*.unity
+
+# =============== #
+# Crashlytics log #
+# =============== #
+crashlytics-build.properties
+
+# =============== #
+# Unity .yar files #
+# =============== #
+*.yar
