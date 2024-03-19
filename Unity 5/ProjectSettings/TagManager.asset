@@ -6,6 +6,8 @@ TagManager:
   tags:
   - PlayerTwo
   - PlayerOne
+  - WallBounce
+  - BounceWall
   layers:
   - Default
   - TransparentFX
